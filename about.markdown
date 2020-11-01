@@ -10,6 +10,14 @@ developer, I've had the chance to work in two large companies and one start-up. 
 better way.
 
 This blog will start off small, as all things do, beginning with an idea that "there has to be a better way,
-a moral way, a non-asshole way". By the end of this blog it hope all my readers (all two of them) will be 
-as convinced as me that there indeed is a better way. 
+a moral way, a non-asshole way". By the end of this blog it hope all my readers (all two of them!) will be 
+as convinced as me that there indeed is a better way.
+
+Hyper-links might change. Be aware.
+
+A few meta-data for this blog:
+
+| Record name | Value | Observations |
+| ----------- | ----- | ------------ |
+| Longest time between when starting the post and actually posting | 11 (hours) | (follow-up on why and how)[link not working] |
 

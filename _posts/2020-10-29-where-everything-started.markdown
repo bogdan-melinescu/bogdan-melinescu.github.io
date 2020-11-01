@@ -2,7 +2,7 @@
 layout: post
 title:  "Where everything started"
 date:   2020-10-29 19:30:00 +0200
-categories: idea start
+categories: intro
 ---
 
 Everything has to have a beginning, unfortunately it wasn't documented at the
@@ -10,7 +10,7 @@ time because the author was (and probably always will be) lazy. The summary that
 I'm about to make here is very succinct and will leave out elements that are lost
 in the mists of time.
 
-As I've already mentioned in the [About](https://bogdan-melinescu.github.com/About)
+As I've already mentioned in the [About](no_link_yet)
 page, everything started once it became clear that there were very few companies 
 that were managed and lead the way I thought someone should manage/lead them. Even
 among the people from my generation, once someone had even the tiniest slither of

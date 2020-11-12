@@ -4,7 +4,7 @@ title:  "Follow-up on why and how"
 date:   2020-11-01 14:26:00 +0200
 categories: intro
 ---
-We know the spark of all of this started ([previous blog post](prev_blog_post))
+We know the spark of all of this started ([previous blog post]({% 2020-10-29-where-everything-started %}))
 we are going to move on to what the plan is. Of course there are many examples of how
 this spark later grows into a full blown wildfire, but for now let's focus on what I
 plan to do about it. More gossip in later posts.

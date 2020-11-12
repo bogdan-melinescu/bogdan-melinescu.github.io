@@ -19,5 +19,6 @@ A few meta-data for this blog:
 
 | Record name | Value | Observations |
 | ----------- | ----- | ------------ |
-| Longest time between when starting the post and actually posting | 11 (hours) | (follow-up on why and how)[link not working] |
+| Longest time between when starting the post and actually posting | 14 (hours) | ["So hear me out ..."]({% post_url 2020-11-11-so-hear-me-out %}) |
+| Longest time between two posts | 10 (days) | |
 

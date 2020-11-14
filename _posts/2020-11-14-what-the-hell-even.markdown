@@ -2,7 +2,7 @@
 layout: post
 title:  "What the hell even"
 date:   2020-11-14 12:00:00 +0200
-categories: idea
+categories: intro
 ---
 I'm making it a point not to ret-con my blog, not to go back and correct
 any of my previous posts to fix anything besides spelling mistakes. The
